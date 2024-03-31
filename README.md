@@ -8,7 +8,7 @@
 ### My skillset :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cpp,ros,python,matlab,opencv,tensorflow,cmake,raspberrypii bash&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,cpp,ros,python,matlab,opencv,tensorflow,cmake,raspberrypi bash&perline=6" />
   </a>
 </p>
 
