@@ -2,13 +2,13 @@
 ![](https://komarev.com/ghpvc/?username=ibrahimmansur4&color=grey)
 
 - 🔭 I am a soon-to-be Roboticist.
-- 🌱 I’m currently working on .
+- 🌱 I’m currently working on Planetary SLAM.
 
 
-### My Interest :
+### My skillset :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cpp,ros,python,matlab,opencv,tensorflow,cmake bash&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,cpp,ros,python,matlab,opencv,tensorflow,cmake,rpi bash&perline=6" />
   </a>
 </p>
 
